@@ -49,5 +49,7 @@
   <img src="https://komarev.com/ghpvc/?username=thiago-de-mattos&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
+![Snake animation](https://github.com/thiago-de-mattos/thiago-de-mattos/blob/output/github-snake.svg?color_snake=#00ff88&color_dots=#222222,#444444,#666666,#999999,#ffffff)
+
 
 ---
