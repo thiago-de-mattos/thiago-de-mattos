@@ -17,9 +17,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: thiago-de-mattos
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs: dist/github-snake.svg
+          color_snake: "#00FF88"
+          color_dots: "#002200,#003300,#004400,#007700,#00FF88"
 
       - name: Push Snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
